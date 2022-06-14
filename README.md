@@ -1,69 +1,66 @@
-# [Name of the module/project with spaces between words]
-[One-line description of the project]
-
-[5 keywords]
-
----
-
-## About this module:
-[Short description: purpose of the module, who commissioned it, where it's going to be used, what it can do]
-
+# About this module:
+This module was created for the **The Tundzha Regional Archaeological Project**, based at Macquarie University, Sydney, Australia. The module has been designed to document the current condition and an exact location of burial mounds in Bulgaria.
+ 
 ## Authorship:
-This module was co-developed by [Name of the researcher/client, organisation] and Penny Crook [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-8509-7865), Petra Hermankova [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6349-0540), and Christian-Nassif Haynes at the FAIMS Project.
+This module was co-developed by Adela Sobotkova at Macquarie University and Petra Janouchova (Heřmánková) at the FAIMS Project, Department of Ancient History, Macquarie University.
 
+## Cite us:
+Nassif-Haynes, Christian, Terry H. Bui, Adela Sobotkova, and Petra Heřmánková. 2019. TRAP Burial Mound Monitoring Module (version 89333d). Github. https://github.com/FAIMS/burial/releases/tag/1.0.0.
+ 
 ## Funding:
-Development of this module was funded by [funding agency, grant, etc.]
+Development of this module was funded by Macquarie University Strategic Infrastructure Scheme (MQSIS) 20110091, aimed to support FAIMS infrastructure development in 2017.
 
 ## Date of release:
-Month 2020 
-
-### Latest updates:
-Month 2020
+August 2017
 
 ## FAIMS Mobile version:
-FAIMS **v2.6** (Android 7+)
-
+FAIMS **v2.5** (Android 6+)
+ 
 ## Licence:
-This module is licensed under an international Creative Commons Licence (**CC-BY-SA 4.0 International**). 
+This module is licensed under an international Creative Commons Attribution 4.0 Licence (**CC BY 4.0**).
 
 ## Access:
-[ONLY FOR DEMO MODULES: This module is part of the **FAIMS Demo library** on our publicly accessible Demo server (http://demo.fedarch.org/). See [Instructions 101: How to access the Demo server](https://www.fedarch.org/resources/handouts.pdf). Note: you will need and **Android** device!]
+This module is part of the **FAIMS Demo library** on our publicly accessible Demo server (http://demo.fedarch.org/).
 
-[FOR OTHER MODULES: The module can be downloaded from this GitHub repository and reinstantiated on a FAIMS server, using the following [Instructions 103: How to Deploy a module](https://www.fedarch.org/resources/handouts.pdf).] 
-
-## This module contains the following FAIMS features:
-[DELETE THOSE THAT DON'T APPLY]
-* dynamic UI on radiobutton selection
-* coordinates from internal GPS
-* hierarchical dropdowns
-* controlled vocabularies
+## This module contains the following FAIMS features: 
 * picture galleries
-* customised validation
-* password protected login
+* coordinates from internal GPS
+* attribute-level timestamps
+* attaching photographs
+* validated fields with user observations
+* controlled vocabularies
 
 ## This module can be used with no or minor modification for:
-* A
-* B
-* C
+* documenting the condition of burial mounds
+* mapping the exact location of archaeological remains
+* ground-truthing of archaeological remains
 
 ## Contact info:
+For more details about the **The Tundzha Regional Archaeological Project** please visit www.tundzha.org. If you have any questions about the The Tundzha Regional Archaeological Project, contact adela.sobotkova@mq.edu.au.
 
-For more details about the **[Project]**, please visit [http://www.website.com/]. If you have any questions about the project, contact [Person at person@email.com].
-
-If you have any questions about the module, please contact the FAIMS team at **enquiries@fedarch.org** and we will get back to you as soon as possible.
-
----
-## Screenshots from the module:
+If you have any questions about the module, please contact the FAIMS team at **enquiries@fedarch.org** and we will get back to you within one business day.
 
 <p align="left">
-  <img src="https://github.com/FAIMS/link to where the screenshot lives.png" width="250"/>
-  <img src="https://github.com/FAIMS/link to where the screenshot lives.png" width="250"/>
-  <img src="https://github.com/FAIMS/link to where the screenshot lives.png" width="250"/>
+  <img src="https://github.com/FAIMS/burial/blob/master/screenshots/Screenshot_20170912-143447.png" width="250"/>
+  <img src="https://github.com/FAIMS/burial/blob/master/screenshots/Screenshot_20170912-152722.png" width="250"/>
+  <img src="https://github.com/FAIMS/burial/blob/master/screenshots/Screenshot_20170912-152733.png" width="250"/>
 </p>
-
----
-## Photos from the field: 
 
 <p align="left">
-  <img src="https://github.com/FAIMS/link to where the image lives.jpg" />
+  <img src="https://github.com/FAIMS/burial/blob/master/screenshots/Screenshot_20170912-152740.png" width="250"/>
+ <img src="https://github.com/FAIMS/burial/blob/master/screenshots/Screenshot_20170912-153046.png" width="250"/>
+  <img src="https://github.com/FAIMS/burial/blob/master/screenshots/Screenshot_20170912-152852.png" width="250"/>
 </p>
+
+<p align="left">
+  <img src="https://github.com/FAIMS/burial/blob/master/screenshots/Screenshot_20170912-152953.png" width="250"/>
+  <img src="https://github.com/FAIMS/burial/blob/master/screenshots/Screenshot_20170912-153000.png" width="250"/>
+  <img src="https://github.com/FAIMS/burial/blob/master/screenshots/Screenshot_20170912-153013.png" width="250"/>
+</p>
+
+<p align="left">
+  <img src="https://github.com/FAIMS/burial/blob/master/screenshots/Screenshot_20170912-153025.png" width="250"/>
+  <img src="https://github.com/FAIMS/burial/blob/master/screenshots/Screenshot_20170912-153032.png" width="250"/>
+  <img src="https://github.com/FAIMS/burial/blob/master/screenshots/Screenshot_20170912-153042.png" width="250"/>
+</p>
+
