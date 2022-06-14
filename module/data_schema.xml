@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<dataSchema>
+  <ArchaeologicalElement name="Record">
+    <description></description>
+    <property name="Hello World" type="measure" isIdentifier="true">
+      <description></description>
+      <formatString>$2</formatString>
+      <appendCharacterString> - </appendCharacterString>
+    </property>
+  </ArchaeologicalElement>
+</dataSchema>

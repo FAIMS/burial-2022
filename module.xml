@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<module>
+<!--
+  This is a template! Modify me then the FAIMS-Tools generate.sh script!
+-->
+
+<User f="nodata">
+  <User f="noscroll">
+    <Select_User t="list" f="user" l="Control"/>
+  </User>
+</User>
+
+<Control f="nodata">
+  <Main>
+    <New_Record t="button" l="Record"/>
+  </Main>
+</Control>
+
+<Record>
+  <fmt>{{Hello_World}}</fmt>
+  <Record>
+    <!--TODO: Implement me-->
+    <Hello_World/>
+  </Record>
+</Record>
+
+
+<logic><![CDATA[
+/// TODO: Implement logic
+]]></logic>
+
+</module>
